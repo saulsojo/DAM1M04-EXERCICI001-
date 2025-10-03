@@ -4,3 +4,6 @@ p {
 #titol {
     font-size: 32px;
     text-decoration: underline;
+.text-important {
+    color: red;
+    font-weight: bold;
