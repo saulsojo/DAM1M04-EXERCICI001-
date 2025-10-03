@@ -7,3 +7,19 @@ p {
 .text-important {
     color: red;
     font-weight: bold;
+.vermell {
+    color: red;
+}
+.verd {
+    color: green;
+}
+.gran {
+    font-size: 24px;
+}
+
+.negreta {
+    font-weight: bold;
+}
+.subratllat {
+    text-decoration: underline;
+}
