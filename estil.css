@@ -23,3 +23,13 @@ p {
 .subratllat {
     text-decoration: underline;
 }
+a:hover {
+    color: orange;
+    cursor: pointer;
+p::before {
+    content: "👉 ";
+    color: blue;
+}
+p::after {
+    content: " ✔";
+    color: green;
