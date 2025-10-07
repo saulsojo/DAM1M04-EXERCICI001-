@@ -1,35 +1,58 @@
 p {
-    color: green;
+	color: green;
 }
+
 #titol {
-    font-size: 32px;
-    text-decoration: underline;
+	font-size: 32px;
+	text-decoration: underline;
+}
+
 .text-important {
-    color: red;
-    font-weight: bold;
+	color: red;
+	font-weight: bold;
+}
+
 .vermell {
-    color: red;
+	color: red;
 }
+
 .verd {
-    color: green;
+	color: green;
 }
+
+.blau {
+	color: blue;
+}
+
 .gran {
-    font-size: 24px;
+	font-size: 24px;
 }
 
 .negreta {
-    font-weight: bold;
+	font-weight: bold;
 }
+
 .subratllat {
-    text-decoration: underline;
+	text-decoration: underline;
 }
+
+a {
+	color: blue;
+	text-decoration: underline;
+}
+
 a:hover {
-    color: orange;
-    cursor: pointer;
-p::before {
-    content: "👉 ";
-    color: blue;
+	color: orange;
+	cursor: pointer;
 }
+
+p::before {
+	content: "👉 ";
+	color: blue;
+}
+
 p::after {
-    content: " ✔";
-    color: green;
+	content: " ✔";
+	color: green;
+}
+
